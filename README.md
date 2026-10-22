@@ -29,3 +29,10 @@ SomaiyaSat Downlink Planner is a Python-based simulation that manages satellite 
 
 ## Project Scope
 This project is a simulation for educational purposes. It does not connect to a real satellite or ground station.
+## Project Structure
+
+- `main.py` - Main application entry point
+- `models.py` - Project data models
+- `database.py` - Database operations
+- `website.py` - Website-related functionality
+- `index.html` - Web interface
